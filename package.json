@@ -1,0 +1,33 @@
+{
+  "name": "vsource",
+  "version": "0.0.0",
+  "description": "Add messages to a vfile bound to a plugin source",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vweevers/vsource.git"
+  },
+  "homepage": "https://github.com/vweevers/vsource",
+  "keywords": [
+    "lint",
+    "message",
+    "plugin",
+    "rule",
+    "ruleid",
+    "vfile"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
